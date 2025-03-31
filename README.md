@@ -503,7 +503,7 @@ import numpy as np
 
 client = InferenceClient(
     provider="together",
-    api_key="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",
+    api_key="hf_TXIOYUixerbPmLPdpciVeOTvkkmJxxxxx",
 )
 
 # output is a PIL.Image object
@@ -529,7 +529,7 @@ import numpy as np
 
 client = InferenceClient(
     provider="fal-ai",
-    api_key="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",
+    api_key="hf_nSJrXNgaVWMrHBcxmduYJrljOAxxxxxx",
 )
 
 # output is a PIL.Image object
