@@ -457,6 +457,45 @@ FID (Fréchet Inception Distance) is a metric that measures image quality. Lower
 
 # Codes used for Model 
 
+## Stable Diffusion
+
+```
+from diffusers import StableDiffusionPipeline
+import matplotlib.pyplot as plt
+import torch
+
+model_id1 = "dreamlike-art/dreamlike-diffusion-1.0"
+
+pipe = StableDiffusionPipeline.from_pretrained(model_id1, torch_dtype=torch.float16, use_safetensors=True)
+pipe = pipe.to("cuda")
+
+prompt = """Alien Planet Landscape – A surreal alien world with two suns in the sky, bizarre rock formations, bioluminescent plants, and an astronaut exploring the terrain.
+"""
+
+image = pipe(prompt).images[0]
+image
+```
+
+## Stable diffusion XL
+
+```
+from diffusers import StableDiffusionPipeline
+import matplotlib.pyplot as plt
+import torch
+
+model_id2 = "stabilityai/stable-diffusion-xl-base-1.0"
+
+pipe = StableDiffusionPipeline.from_pretrained(model_id2, torch_dtype=torch.float16, use_safetensors=True)
+pipe = pipe.to("cuda")
+
+prompt = """"Generate a high-resolution, photorealistic portrait of a young man with sharp facial features, short black hair, and deep brown eyes. He has a confident expression, a light beard, and a warm skin tone. The background is softly blurred with natural lighting, creating a professional yet approachable look."
+"""
+
+image = pipe(prompt).images[0]
+image
+
+```
+
 ## Flux-1
 
 ```
