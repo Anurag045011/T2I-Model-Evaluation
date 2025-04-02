@@ -537,11 +537,11 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **1. Fox Cub in Sunflowers**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 7/10    | 8/10             | 8/10             | 7/10             | 8/10        |
-| **DALL·E**     | 9/10    | 9/10             | 9/10             | 8/10             | 9/10        |
-| **Stable Diffusion** | 8/10 | 8/10 | 9/10 | 9/10 | 8/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Flux-1**     | 7/10    | 7/10             | 8/10             | 7/10             | 7/10        |
+| **Gemini**     | 8/10    | 9/10             | 9/10             | 9/10             | 8/10        |
+| **DALL·E**     | 7/10    | 9/10             | 8/10             | 7/10             | 8/10        |
+| **Stable Diffusion** | 7/10 | 7/10 | 6/10 | 7/10 | 7/10 |
+| **SD-XL**      | 7/10    | 8/10             | 7/10             | 9/10             | 7/10        |
+| **Flux-1**     | 9/10    | 9/10             | 9/10             | 10/10             | 7/10        |
 | **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
 
 **Summary:**  
@@ -553,10 +553,10 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **2. Redwood Forest**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 8/10    | 8/10             | 8/10             | 7/10             | 7/10        |
+| **Gemini**     | 9/10    | 9/10             | /10             | 7/10             | 7/10        |
 | **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
 | **Stable Diffusion** | 9/10 | 9/10 | 8/10 | 9/10 | 9/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
+| **SD-XL**      | 9/10    | 8/10             | 7/10             | 7/10             | 8/10        |
 | **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
 | **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
 
@@ -569,11 +569,11 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **3. Watercolor Teapot & Rain**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 8/10    | 8/10             | 7/10             | 7/10             | 8/10        |
+| **Gemini**     | 9/10    | 9/10             | 8/10             | 9/10             | 9/10        |
 | **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
 | **Stable Diffusion** | 9/10 | 9/10 | 8/10 | 8/10 | 8/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
+| **SD-XL**      | 8/10    | 7/10             | 8/10             | 7/10             | 6/10        |
+| **Flux-1**     | 9/10    | 10/10             | 9/10             | 8/10             | 10/10        |
 | **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
 
 **Summary:**  
@@ -585,12 +585,12 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **4. Alien Planet Landscape**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 8/10    | 8/10             | 8/10             | 8/10             | 8/10        |
-| **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
+| **Gemini**     | 9/10    | 10/10             | 9/10             | 9/10             | 10/10        |
+| **DALL·E**     | 9/10    | 9/10             | 8/10             | 9/10             | 9/10        |
 | **Stable Diffusion** | 9/10 | 9/10 | 9/10 | 9/10 | 9/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
-| **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
+| **SD-XL**      | 6/10    | 7/10             | 8/10             | 5/10             | 8/10        |
+| **Flux-1**     | 8/10    | 10/10             | 9/10             | 9/10             | 9/10        |
+| **Playground v2.5** | 9/10 | 10/10 | 9/10 | 10/10 | 8/10 |
 
 **Summary:**  
 - **DALL·E, SD-XL, and Stable Diffusion performed the best,** capturing an alien-like atmosphere with bioluminescent details.
@@ -601,12 +601,12 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **5. Medieval Battle Scene**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
-| **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Stable Diffusion** | 9/10 | 9/10 | 9/10 | 9/10 | 9/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
+| **Gemini**     | 9/10    | 10/10             | 9/10             | 8/10             | 9/10        |
+| **DALL·E**     | 9/10    | 10/10             | 9/10             | 8/10             | 9/10        |
+| **Stable Diffusion** | 9/10 | 10/10 | 9/10 | 8/10 | 9/10 |
+| **SD-XL**      | 8/10    | 7/10             | 6/10             | 7/10             | 8/10        |
 | **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
-| **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
+| **Playground v2.5** | 9/10 | 7/10 | 10/10 | 9/10 | 8/10 |
 
 **Summary:**  
 - **SD-XL, DALL·E, and Stable Diffusion excelled** in realistic war scenes.
@@ -617,12 +617,12 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **6. Photorealistic Portrait**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 8/10    | 8/10             | 8/10             | 8/10             | 8/10        |
-| **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Stable Diffusion** | 9/10 | 9/10 | 9/10 | 9/10 | 9/10 |
-| **SD-XL**      | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
-| **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
-| **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
+| **Gemini**     | 9/10    | 9/10             | 10/10             | 9/10             | 9/10        |
+| **DALL·E**     | 9/10    | 9/10             | 10/10             | 9/10             | 9/10        |
+| **Stable Diffusion** | 6/10 | 7/10 | 8/10 | 8/10 | 9/10 |
+| **SD-XL**      | 6/10    | 6/10             | 5/10             | 5/10             | 7/10        |
+| **Flux-1**     | 10/10    | 10/10             | 10/10             | 9/10             | 10/10        |
+| **Playground v2.5** | 7/10 | 7/10 | 8/10 | 7/10 | 8/10 |
 
 **Summary:**  
 - **DALL·E and SD-XL generated the most natural, photorealistic portraits.**
