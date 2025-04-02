@@ -553,12 +553,12 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **2. Redwood Forest**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 9/10    | 9/10             | /10             | 7/10             | 7/10        |
+| **Gemini**     | 9/10    | 9/10             | 8/10             | 8/10             | 8/10        |
 | **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
 | **Stable Diffusion** | 9/10 | 9/10 | 8/10 | 9/10 | 9/10 |
-| **SD-XL**      | 9/10    | 8/10             | 7/10             | 7/10             | 8/10        |
-| **Flux-1**     | 7/10    | 7/10             | 7/10             | 7/10             | 7/10        |
-| **Playground v2.5** | 8/10 | 8/10 | 8/10 | 8/10 | 8/10 |
+| **SD-XL**      | 7/10    | 8/10             | 7/10             | 7/10             | 8/10        |
+| **Flux-1**     | 9/10    | 9/10             | 10/10             | 8/10             | 9/10        |
+| **Playground v2.5** | 6/10 | 7/10 | 8/10 | 8/10 | 8/10 |
 
 **Summary:**  
 - **DALL·E, Stable Diffusion, and SD-XL performed best**, capturing the forest's lighting, depth, and realism.
@@ -569,8 +569,8 @@ To compare the six AI models (Gemini, DALL·E, Stable Diffusion, SD-XL, Flux-1, 
 ### **3. Watercolor Teapot & Rain**
 | Model           | Realism | Prompt Adherence | Aesthetic Appeal | Detail & Texture | Consistency |
 |----------------|---------|------------------|------------------|------------------|-------------|
-| **Gemini**     | 9/10    | 9/10             | 8/10             | 9/10             | 9/10        |
-| **DALL·E**     | 9/10    | 9/10             | 9/10             | 9/10             | 9/10        |
+| **Gemini**     | 8/10    | 9/10             | 8/10             | 9/10             | 9/10        |
+| **DALL·E**     | 9/10    | 8/10             | 9/10             | 8/10             | 9/10        |
 | **Stable Diffusion** | 9/10 | 9/10 | 8/10 | 8/10 | 8/10 |
 | **SD-XL**      | 8/10    | 7/10             | 8/10             | 7/10             | 6/10        |
 | **Flux-1**     | 9/10    | 10/10             | 9/10             | 8/10             | 10/10        |
