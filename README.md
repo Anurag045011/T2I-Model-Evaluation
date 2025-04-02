@@ -417,41 +417,6 @@ image.save("flux-dev.png")
 
 ---
 
-## **4. Kandinsky 2.2**  
-
-### **Overview**  
-Kandinsky 2.2 is a **text-to-image model** developed by **Sber AI**. It combines the strengths of **Stable Diffusion** and **DALL-E**, making it **one of the most versatile AI art generators**.  
-
-### **Key Features**  
-- Uses **CLIP embeddings** to improve text-prompt understanding.  
-- Supports **inpainting and outpainting** for image modifications.  
-- Trained on a **diverse multimodal dataset**, resulting in **better style adaptability**.  
-- Available via **Hugging Face and Sber AI Cloud**.  
-
-### **Installation & Usage**  
-```python
-from diffusers import KandinskyPipeline
-import torch
-
-pipe = KandinskyPipeline.from_pretrained("kandinsky-community/kandinsky-2.2", torch_dtype=torch.float16)
-pipe.to("cuda")
-
-prompt = "A futuristic city skyline at sunset, cyberpunk style"
-image = pipe(prompt).images[0]
-
-image.save("kandinsky.png")
-```
-
-### **Use Cases**  
-- **Fine art and surrealist compositions**  
-- **Illustration and advertising**  
-- **Fashion and creative media**  
-
-### **Limitations**  
-- May **struggle with photorealism** in complex scenes.  
-- Requires **fine-tuned prompting** for best results.  
-
----
 ### **Playground v2.5 – 1024px Aesthetic Model**
 
 **Developer:** Playground  
