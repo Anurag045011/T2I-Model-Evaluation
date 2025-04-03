@@ -3,7 +3,7 @@
 ## **Project Overview**  
 This project evaluates various text-to-image generation models based on image quality and generation time. The models tested include:  
 - **DALL·E** (by OpenAI)  
-- **Gemini** (by Google)  
+- **Gemini(Imagen)** (by Google)  
 - **Stable Diffusion** (by Stability AI)  
 - **Stable Diffusion XL** (by Stability AI)  
 - **Flux-1**  
