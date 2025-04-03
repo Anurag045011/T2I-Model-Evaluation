@@ -1,5 +1,8 @@
 # **Text-to-Image Model Comparison**  
 
+![image](https://github.com/user-attachments/assets/60b7d7fc-842b-454d-adaf-1dc932a64de3)
+
+
 ## **Project Overview**  
 This project evaluates various text-to-image generation models based on image quality and generation time. The models tested include:  
 - **DALL·E** (by OpenAI)  
